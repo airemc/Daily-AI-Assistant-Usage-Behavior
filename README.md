@@ -46,19 +46,7 @@ The project followed a structured Data Science pipeline:
 4.  **Statistical Segmentation (Binning):**
     * Used `pd.qcut` to divide data into equal-sized quantiles (Low, Medium, High) to find specific thresholds for Prompt Length and Token Usage.
 
----
 
-## 📈 Visualizations
-
-###  Prompt Length Analysis
-*Visualizing the jump in satisfaction after the "High" threshold.*
-![Prompt Length Analysis](insert_link_to_your_prompt_chart_here.png)
-
-###  Token Usage Efficiency
-*The "Goldilocks Zone" where satisfaction peaks before dropping.*
-![Token Usage Analysis](insert_link_to_your_token_chart_here.png)
-
----
 
 ## 💡 Business Recommendations
 
